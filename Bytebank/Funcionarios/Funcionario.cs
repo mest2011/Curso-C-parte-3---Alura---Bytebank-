@@ -13,9 +13,9 @@ namespace Bytebank.Funcionarios
 
         public Funcionario(double salario, string cpf)
         {
-            Console.WriteLine("Criando funcionario!");
+            //Console.WriteLine("Criando funcionario!");
             TotalFuncionarios++;
-            Console.WriteLine("Total de Funcionario: " + TotalFuncionarios);
+            //Console.WriteLine("Total de Funcionario: " + TotalFuncionarios);
             CPF = cpf;
             Salario = salario;
         }
