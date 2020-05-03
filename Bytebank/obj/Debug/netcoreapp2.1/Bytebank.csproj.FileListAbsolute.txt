@@ -9,3 +9,13 @@ C:\Users\mest2\source\repos\Bytebank\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.A
 C:\Users\mest2\source\repos\Bytebank\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.AssemblyInfo.cs
 C:\Users\mest2\source\repos\Bytebank\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.dll
 C:\Users\mest2\source\repos\Bytebank\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.pdb
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.csprojAssemblyReference.cache
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.AssemblyInfoInputs.cache
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.AssemblyInfo.cs
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.dll
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\obj\Debug\netcoreapp2.1\Bytebank.pdb
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\bin\Debug\netcoreapp2.1\Bytebank.deps.json
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\bin\Debug\netcoreapp2.1\Bytebank.runtimeconfig.json
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\bin\Debug\netcoreapp2.1\Bytebank.runtimeconfig.dev.json
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\bin\Debug\netcoreapp2.1\Bytebank.dll
+C:\Users\mest2\Desktop\Estudos\Alura\Curso-C-parte-3---Alura---Bytebank-\Bytebank\bin\Debug\netcoreapp2.1\Bytebank.pdb
